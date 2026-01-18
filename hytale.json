@@ -1,0 +1,10 @@
+{
+    "id": "hybox_core",
+    "name": "HyBox Core",
+    "author": "LordM8YT",
+    "version": "0.0.1-alpha",
+    "description": "Framework for Roleplay, SMP and Minigames inspired by QBox.",
+    "is_library": true,
+    "dependencies": [],
+    "entry_point": "server/main.js"
+}

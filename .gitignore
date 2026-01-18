@@ -1,0 +1,11 @@
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Hytale / IDE files
+*.log
+.vscode/
+.idea/
+bin/
+obj/
